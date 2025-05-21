@@ -1,0 +1,1 @@
+Thanks for your interest in contributing! Feel free to report bugs, suggest new features, or submit pull requests. Please follow good coding practices and be respectful in discussions. Your help makes this project better for everyone!
